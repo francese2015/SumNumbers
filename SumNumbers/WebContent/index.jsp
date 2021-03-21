@@ -13,12 +13,6 @@
 
 
 
-
-
-
-
-
-
  <script>
  $( document ).ready(function() {
   
